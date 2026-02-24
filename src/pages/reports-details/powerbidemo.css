@@ -1,0 +1,9 @@
+.power-bi-report-class {
+  height: 100vh !important;
+}
+
+.power-bi-report-class iframe {
+  height: 100% !important;
+  width: 100% !important;
+  border: none; /* Optional for cleaner styling */
+}
